@@ -13,7 +13,7 @@
 
 🎓 Academic Affiliations
 - The Japan Society of Applied Physics (JSAP)
-- The Japan Society for Analytical Chemistry(JSAC)
+- The Japan Society for Analytical Chemistry (JSAC)
 - The Electrochemical Society of Japan (ECSJ)
 
 
