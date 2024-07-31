@@ -11,14 +11,14 @@
 - Electronics
 <br>
 
-:mortar_board: Academic Affiliations
+:mortar_board: Professional Memberships
 - JSPS Research Fellowships for Young Scientists (DC1), 2023-
 - The Japan Society of Applied Physics (JSAP)
 - The Japan Society for Analytical Chemistry (JSAC)
 - The Electrochemical Society of Japan (ECSJ)
 <br>
 
-:black_nib: Research Achievements
+:black_nib: Publications
 - A. Tochigi _et al_, _J. Technology and Education_, **29**, 1, 23-27 (2022).
 <br>
 
